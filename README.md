@@ -1,8 +1,6 @@
 # Trapperkeeper Status Service
 
-[![Build Status](https://travis-ci.org/puppetlabs/trapperkeeper-status.svg)](https://travis-ci.org/puppetlabs/trapperkeeper-status)
-
-[![Clojars Project](http://clojars.org/puppetlabs/trapperkeeper-status/latest-version.svg)](http://clojars.org/puppetlabs/trapperkeeper-status)
+[![Clojars Project](http://clojars.org/org.openvoxproject/trapperkeeper-status/latest-version.svg)](http://clojars.org/org.openvoxproject/trapperkeeper-status)
 
 A Trapperkeeper service that provides a web endpoint for getting status
 information about a running Trapperkeeper application.
@@ -17,10 +15,9 @@ For more information, please see the [documentation](./documentation).
 
 ## Support
 
-To file a bug, please open a Github issue against this project. Bugs and PRs are
-addressed on a best-effort basis. Puppet Labs does not guarantee support for
-this project.
+GitHub issues and PRs are welcome! Additionally, drop us a line in [the Vox Pupuli Slack](https://voxpupuli.slack.com).
 
 ## License
 
 Copyright © 2015 Puppet Labs
+Copyright © 2025 Vox Pupuli
