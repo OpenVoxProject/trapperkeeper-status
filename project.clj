@@ -38,4 +38,4 @@
                                   [org.openvoxproject/kitchensink :classifier "test"]]}}
 
   :plugins [[lein-parent "0.3.9"]
-            [org.openvoxproject/i18n "0.9.2" :hooks false]])
+            [org.openvoxproject/i18n "0.9.3-SNAPSHOT" :hooks false]])
