@@ -16,6 +16,7 @@
                  [slingshot]
                  [prismatic/schema]
                  [trptcolin/versioneer]
+                 [org.apache.httpcomponents/httpasyncclient]
                  [org.clojure/java.jmx]
                  [org.clojure/tools.logging]
                  [org.openvoxproject/kitchensink]

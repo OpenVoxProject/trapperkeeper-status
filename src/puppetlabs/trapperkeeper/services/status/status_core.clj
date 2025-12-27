@@ -316,7 +316,7 @@
     version))
 
 (def status-service-version
-  (get-artifact-version "puppetlabs" "trapperkeeper-status"))
+  (get-artifact-version "org.openvoxproject" "trapperkeeper-status"))
 
 (defn level->int
   "Returns an integer which represents the given status level.
