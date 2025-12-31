@@ -6,7 +6,7 @@
 
   :min-lein-version "2.9.0"
 
-  :parent-project {:coords [org.openvoxproject/clj-parent "7.4.1-SNAPSHOT"]
+  :parent-project {:coords [org.openvoxproject/clj-parent "7.5.0"]
                    :inherit [:managed-dependencies]}
 
   :pedantic? :abort
@@ -27,7 +27,7 @@
                  [org.openvoxproject/i18n]
                  [org.openvoxproject/trapperkeeper-authorization]]
 
-  :deploy-repositories [["clojars" {:url "https://clojars.org/repo"
+  :deploy-repositories [["releases" {:url "https://clojars.org/repo"
                                      :username :env/CLOJARS_USERNAME
                                      :password :env/CLOJARS_PASSWORD
                                      :sign-releases false}]]
@@ -39,4 +39,4 @@
                                   [org.openvoxproject/kitchensink :classifier "test"]]}}
 
   :plugins [[lein-parent "0.3.9"]
-            [org.openvoxproject/i18n "0.9.3-SNAPSHOT" :hooks false]])
+            [org.openvoxproject/i18n "0.9.3" :hooks false]])
