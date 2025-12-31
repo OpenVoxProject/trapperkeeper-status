@@ -1,4 +1,4 @@
-(defproject org.openvoxproject/trapperkeeper-status "1.2.1-SNAPSHOT"
+(defproject org.openvoxproject/trapperkeeper-status "1.2.1"
   :description "A trapperkeeper service for getting the status of other trapperkeeper services."
   :url "https://github.com/openvoxproject/trapperkeeper-status"
   :license {:name "Apache License, Version 2.0"
