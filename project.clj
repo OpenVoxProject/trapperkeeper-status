@@ -1,4 +1,4 @@
-(defproject org.openvoxproject/trapperkeeper-status "1.2.2-SNAPSHOT"
+(defproject org.openvoxproject/trapperkeeper-status "1.3.0-SNAPSHOT"
   :description "A trapperkeeper service for getting the status of other trapperkeeper services."
   :url "https://github.com/openvoxproject/trapperkeeper-status"
   :license {:name "Apache License, Version 2.0"
@@ -6,7 +6,7 @@
 
   :min-lein-version "2.9.0"
 
-  :parent-project {:coords [org.openvoxproject/clj-parent "7.5.1"]
+  :parent-project {:coords [org.openvoxproject/clj-parent "7.6.3"]
                    :inherit [:managed-dependencies]}
 
   :pedantic? :abort
@@ -39,4 +39,4 @@
                                   [org.openvoxproject/kitchensink :classifier "test"]]}}
 
   :plugins [[lein-parent "0.3.9"]
-            [org.openvoxproject/i18n "0.9.4" :hooks false]])
+            [org.openvoxproject/i18n "1.0.2" :hooks false]])
