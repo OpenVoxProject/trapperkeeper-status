@@ -29,7 +29,7 @@
                          [org.openvoxproject/trapperkeeper ~trapperkeeper-version :classifier "test"]]
 
   :dependencies [[org.clojure/clojure]
-                 [cheshire "5.10.2"]
+                 [cheshire "5.13.0"]
                  [slingshot "0.12.2"]
                  [prismatic/schema "1.4.1"]
                  [trptcolin/versioneer "0.2.0"]
