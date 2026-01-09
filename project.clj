@@ -18,7 +18,7 @@
   ;; because it is a dep of a dep with a different version, move it here.
   :managed-dependencies [[org.clojure/clojure "1.12.4"]
 
-                         [ring/ring-codec "1.1.2"]
+                         [ring/ring-codec "1.3.0"]
                          [commons-codec "1.15"]
 
                          [org.bouncycastle/bcpkix-jdk18on "1.83"]
