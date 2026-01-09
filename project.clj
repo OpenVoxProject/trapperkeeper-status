@@ -35,7 +35,7 @@
                  [trptcolin/versioneer "0.2.0"]
                  [org.apache.httpcomponents/httpasyncclient "4.1.5"]
                  [org.clojure/java.jmx "1.0.0"]
-                 [org.clojure/tools.logging "1.2.4"]
+                 [org.clojure/tools.logging "1.3.1"]
                  [org.openvoxproject/kitchensink]
                  [org.openvoxproject/trapperkeeper]
                  [org.openvoxproject/trapperkeeper-scheduler "1.3.0"]
