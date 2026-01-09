@@ -31,7 +31,7 @@
   :dependencies [[org.clojure/clojure]
                  [cheshire "5.10.2"]
                  [slingshot "0.12.2"]
-                 [prismatic/schema "1.1.12"]
+                 [prismatic/schema "1.4.1"]
                  [trptcolin/versioneer "0.2.0"]
                  [org.apache.httpcomponents/httpasyncclient "4.1.5"]
                  [org.clojure/java.jmx "1.0.0"]
