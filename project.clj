@@ -1,6 +1,6 @@
 (def kitchensink-version "3.5.4")
 (def trapperkeeper-version "4.3.0")
-(def i18n-version "1.0.2")
+(def i18n-version "1.0.3")
 
 (defproject org.openvoxproject/trapperkeeper-status "1.3.1-SNAPSHOT"
   :description "A trapperkeeper service for getting the status of other trapperkeeper services."
