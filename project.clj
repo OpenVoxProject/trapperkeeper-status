@@ -38,7 +38,7 @@
                  [org.clojure/tools.logging "1.3.1"]
                  [org.openvoxproject/kitchensink]
                  [org.openvoxproject/trapperkeeper]
-                 [org.openvoxproject/trapperkeeper-scheduler "1.3.0"]
+                 [org.openvoxproject/trapperkeeper-scheduler "1.3.1"]
                  [org.openvoxproject/ring-middleware "2.1.0"]
                  [org.openvoxproject/comidi "1.1.2"]
                  [org.openvoxproject/i18n ~i18n-version]
