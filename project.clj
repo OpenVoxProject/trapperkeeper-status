@@ -19,6 +19,7 @@
                          [org.clojure/tools.logging "1.3.1"]
 
                          [commons-codec "1.20.0"]
+                         [commons-io "2.21.0"]
                          [cheshire "5.13.0"]
                          [org.apache.httpcomponents/httpasyncclient "4.1.5"]
                          [org.bouncycastle/bcpkix-jdk18on "1.83"]
