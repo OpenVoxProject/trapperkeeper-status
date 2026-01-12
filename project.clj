@@ -42,7 +42,7 @@
                  [org.openvoxproject/ring-middleware "2.1.0"]
                  [org.openvoxproject/comidi "1.1.2"]
                  [org.openvoxproject/i18n ~i18n-version]
-                 [org.openvoxproject/trapperkeeper-authorization "2.1.0"]]
+                 [org.openvoxproject/trapperkeeper-authorization "2.1.4"]]
 
   :deploy-repositories [["releases" {:url "https://clojars.org/repo"
                                      :username :env/CLOJARS_USERNAME
