@@ -39,7 +39,7 @@
                  [org.openvoxproject/kitchensink]
                  [org.openvoxproject/trapperkeeper]
                  [org.openvoxproject/trapperkeeper-scheduler "1.3.0"]
-                 [org.openvoxproject/ring-middleware "2.1.0"]
+                 [org.openvoxproject/ring-middleware "2.1.2"]
                  [org.openvoxproject/comidi "1.1.2"]
                  [org.openvoxproject/i18n ~i18n-version]
                  [org.openvoxproject/trapperkeeper-authorization "2.1.4"]]
