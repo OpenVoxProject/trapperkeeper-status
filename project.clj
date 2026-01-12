@@ -20,6 +20,7 @@
 
                          [ring/ring-codec "1.3.0"]
                          [commons-codec "1.20.0"]
+                         [org.ring-clojure/ring-websocket-protocols "1.15.3"]
 
                          [org.bouncycastle/bcpkix-jdk18on "1.83"]
   
