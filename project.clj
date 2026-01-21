@@ -25,7 +25,7 @@
                          [org.bouncycastle/bcpkix-jdk18on "1.83"]
                          [org.ring-clojure/ring-websocket-protocols "1.14.2"]
                          [prismatic/schema "1.4.1"]
-                         [ring/ring-core "1.14.2"]
+                         [ring/ring-core "1.15.3"]
                          [ring/ring-codec "1.3.0"]
                          [slingshot "0.12.2"]
                          [trptcolin/versioneer "0.2.0"]
