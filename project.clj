@@ -38,7 +38,7 @@
                          [org.openvoxproject/ring-middleware "2.1.3"]
                          [org.openvoxproject/trapperkeeper "4.3.2"]
                          [org.openvoxproject/trapperkeeper "4.3.2" :classifier "test"]
-                         [org.openvoxproject/trapperkeeper-authorization "2.1.5"]
+                         [org.openvoxproject/trapperkeeper-authorization "2.1.6"]
                          [org.openvoxproject/trapperkeeper-scheduler "1.3.1"]
                          [org.openvoxproject/trapperkeeper-webserver-jetty10 "1.1.3"]]
 
