@@ -36,11 +36,11 @@
                          [org.openvoxproject/kitchensink "3.5.5"]
                          [org.openvoxproject/kitchensink "3.5.5" :classifier "test"]
                          [org.openvoxproject/ring-middleware "2.1.4"]
-                         [org.openvoxproject/trapperkeeper "4.3.2"]
-                         [org.openvoxproject/trapperkeeper "4.3.2" :classifier "test"]
+                         [org.openvoxproject/trapperkeeper "4.3.3-SNAPSHOT"]
+                         [org.openvoxproject/trapperkeeper "4.3.3-SNAPSHOT" :classifier "test"]
                          [org.openvoxproject/trapperkeeper-authorization "2.1.6"]
                          [org.openvoxproject/trapperkeeper-scheduler "1.3.1"]
-                         [org.openvoxproject/trapperkeeper-webserver-jetty10 "1.1.4"]]
+                         [org.openvoxproject/trapperkeeper-webserver-jetty12 "1.0.0-SNAPSHOT"]]
 
   :dependencies [[org.clojure/clojure]
                  [cheshire]
@@ -67,6 +67,6 @@
                                   [org.openvoxproject/http-client]
                                   [org.openvoxproject/kitchensink :classifier "test"]
                                   [org.openvoxproject/trapperkeeper :classifier "test"]
-                                  [org.openvoxproject/trapperkeeper-webserver-jetty10]]}}
+                                  [org.openvoxproject/trapperkeeper-webserver-jetty12]]}}
 
   :plugins [[org.openvoxproject/i18n ~i18n-version :hooks false]])
