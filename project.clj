@@ -1,4 +1,4 @@
-(def i18n-version "1.0.3")
+(def i18n-version "1.0.4")
 
 (defproject org.openvoxproject/trapperkeeper-status "1.3.3-SNAPSHOT"
   :description "A trapperkeeper service for getting the status of other trapperkeeper services."
