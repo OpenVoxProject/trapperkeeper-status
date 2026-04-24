@@ -40,7 +40,7 @@
                          [org.openvoxproject/trapperkeeper "4.3.5" :classifier "test"]
                          [org.openvoxproject/trapperkeeper-authorization "2.1.9"]
                          [org.openvoxproject/trapperkeeper-scheduler "1.3.1"]
-                         [org.openvoxproject/trapperkeeper-webserver-jetty10 "1.1.5"]]
+                         [org.openvoxproject/trapperkeeper-webserver-jetty10 "1.1.7"]]
 
   :dependencies [[org.clojure/clojure]
                  [cheshire]
