@@ -1,6 +1,6 @@
 (def i18n-version "1.0.4")
 
-(defproject org.openvoxproject/trapperkeeper-status "1.3.6-SNAPSHOT"
+(defproject org.openvoxproject/trapperkeeper-status "1.4.0-SNAPSHOT"
   :description "A trapperkeeper service for getting the status of other trapperkeeper services."
   :url "https://github.com/openvoxproject/trapperkeeper-status"
   :license {:name "Apache License, Version 2.0"
@@ -40,7 +40,7 @@
                          [org.openvoxproject/trapperkeeper "4.3.5" :classifier "test"]
                          [org.openvoxproject/trapperkeeper-authorization "2.1.9"]
                          [org.openvoxproject/trapperkeeper-scheduler "1.3.2"]
-                         [org.openvoxproject/trapperkeeper-webserver-jetty10 "1.1.8"]]
+                         [org.openvoxproject/trapperkeeper-webserver "10.0.0"]]
 
   :dependencies [[org.clojure/clojure]
                  [cheshire]
@@ -67,6 +67,6 @@
                                   [org.openvoxproject/http-client]
                                   [org.openvoxproject/kitchensink :classifier "test"]
                                   [org.openvoxproject/trapperkeeper :classifier "test"]
-                                  [org.openvoxproject/trapperkeeper-webserver-jetty10]]}}
+                                  [org.openvoxproject/trapperkeeper-webserver]]}}
 
   :plugins [[org.openvoxproject/i18n ~i18n-version :hooks false]])
