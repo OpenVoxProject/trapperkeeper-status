@@ -39,7 +39,7 @@
                          [org.openvoxproject/trapperkeeper "5.0.2"]
                          [org.openvoxproject/trapperkeeper "5.0.2" :classifier "test"]
                          [org.openvoxproject/trapperkeeper-authorization "2.3.0"]
-                         [org.openvoxproject/trapperkeeper-scheduler "1.3.2"]
+                         [org.openvoxproject/trapperkeeper-scheduler "1.4.0"]
                          [org.openvoxproject/trapperkeeper-webserver "12.0.0"]]
 
   :dependencies [[org.clojure/clojure]
