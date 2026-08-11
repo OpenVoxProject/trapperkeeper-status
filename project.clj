@@ -22,7 +22,7 @@
                          [commons-io "2.22.0"]
                          [cheshire "6.2.0"]
                          [org.apache.httpcomponents/httpasyncclient "4.1.5"]
-                         [org.bouncycastle/bcpkix-jdk18on "1.84"]
+                         [org.bouncycastle/bcpkix-jdk18on "1.85"]
                          [org.ring-clojure/ring-websocket-protocols "1.15.5"]
                          [prismatic/schema "1.4.2"]
                          [ring/ring-core "1.15.5"]
