@@ -31,7 +31,7 @@
                          [trptcolin/versioneer "0.2.0"]
 
                          [org.openvoxproject/comidi "1.1.4"]
-                         [org.openvoxproject/http-client "2.4.0"]
+                         [org.openvoxproject/http-client "2.4.1"]
                          [org.openvoxproject/i18n ~i18n-version]
                          [org.openvoxproject/kitchensink "3.5.8"]
                          [org.openvoxproject/kitchensink "3.5.8" :classifier "test"]
