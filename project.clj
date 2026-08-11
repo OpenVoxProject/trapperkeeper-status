@@ -30,7 +30,7 @@
                          [slingshot "0.12.2"]
                          [trptcolin/versioneer "0.2.0"]
 
-                         [org.openvoxproject/comidi "1.1.3"]
+                         [org.openvoxproject/comidi "1.1.4"]
                          [org.openvoxproject/http-client "2.3.1"]
                          [org.openvoxproject/i18n ~i18n-version]
                          [org.openvoxproject/kitchensink "3.5.7"]
