@@ -20,7 +20,7 @@
 
                          [commons-codec "1.23.0"]
                          [commons-io "2.22.0"]
-                         [cheshire "6.2.0"]
+                         [cheshire "6.2.1"]
                          [org.apache.httpcomponents/httpasyncclient "4.1.5"]
                          [org.bouncycastle/bcpkix-jdk18on "1.86"]
                          [org.ring-clojure/ring-websocket-protocols "1.15.6"]
